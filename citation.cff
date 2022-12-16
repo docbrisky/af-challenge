@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Brisk
+    given-names: Rob
+    orcid: https://orcid.org/0000-0002-3865-0792
+title: "Detecting atrial fibrillation from ECG images"
+version: 1.0.0
+doi: 10.1016/j.jelectrocard.2019.09.018
+date-released: 2019-11-01
